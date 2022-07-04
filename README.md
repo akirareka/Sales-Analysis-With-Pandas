@@ -5,7 +5,7 @@ Data Analyst Projects
 - Perform data visualization using python matplotlib library.
 
 What to expect from analyzing data?
-## Question 1: Which city gave the most sales for a year?
-## Question 2: In what month did you sell the most and how much did you get?
-## Question 3: At what time should more ads be shown?
-## Question 4: Which product sold the most?
+- Question 1: Which city gave the most sales for a year?
+- Question 2: In what month did you sell the most and how much did you get?
+- Question 3: At what time should more ads be shown?
+- Question 4: Which product sold the most?
